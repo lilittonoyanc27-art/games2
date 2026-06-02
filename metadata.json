@@ -1,0 +1,6 @@
+{
+  "name": "Изучение Испанского: Прошедшие Времена",
+  "description": "Обучающая игра по прошедшим временам испанского языка (Pretérito Perfecto, Indefinido, Imperfecto) с Иваном и Марией: Формула-1 гонка, словесный перевод, сканворд и 3D-лабиринт с подробными грамматическими объяснениями.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

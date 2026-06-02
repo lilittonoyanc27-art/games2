@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Helvetica Neue', Arial, 'Inter', sans-serif;
+  --color-slate-900: #0f172a;
+  --color-slate-800: #1e293b;
+  --color-slate-705: #334155;
+  --color-brand-red: #ef4444;
+  --color-brand-blue: #3b82f6;
+  --color-brand-green: #10b981;
+}
+
+body {
+  background-color: #0f172a;
+  font-family: 'Helvetica Neue', Arial, 'Inter', sans-serif;
+  color: #f8fafc;
+}
+
+/* Custom styles matching Sleek Interface */
+.sleek-card-bg {
+  background: rgba(15, 23, 42, 0.5);
+  backdrop-filter: blur(8px);
+}
+
+.sleek-header-gradient {
+  background: linear-gradient(90deg, #1e293b, #0f172a);
+}
+
+.sleek-btn-primary {
+  background: linear-gradient(135deg, #3b82f6, #2563eb);
+}
+
+.sleek-btn-secondary {
+  background: linear-gradient(135deg, #10b981, #059669);
+}
+
+.sleek-btn-accent {
+  background: linear-gradient(135deg, #ef4444, #dc2626);
+}
+
+.sleek-grammar-hub {
+  background: rgba(239, 68, 68, 0.1);
+  border-left: 4px solid #ef4444;
+}
+
+.sleek-glow-bar {
+  box-shadow: 0 0 10px #ef4444;
+}

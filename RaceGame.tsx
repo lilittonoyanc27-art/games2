@@ -345,8 +345,8 @@ export default function RaceGame() {
             
             {/* Horizon mountain visual styling */}
             <div className="absolute top-0 inset-x-0 h-10 bg-gradient-to-b from-brand-red/10 to-transparent flex items-center justify-between px-8 text-[11px] font-mono text-slate-450 font-bold">
-              <span>⛰️ ՀԱՅԱՍՏԱՆԻ ԳԵՂԵՑԿՈՒԹՅՈՒՆԸ (ԱՐԱՐԱՏ ԼԵՌ)</span>
-              <span>🏎️ YEREVAN-TRACK F1 (2-PLAYER)</span>
+              <span></span>
+              <span></span>
             </div>
 
             {/* Simulated Track Lanes */}
